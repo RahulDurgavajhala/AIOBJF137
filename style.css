@@ -1,0 +1,25 @@
+body{
+background-color: cornflowerblue;
+
+    background-position: center;
+    background-size: cover;
+}
+#heading{
+    width: 100%;
+    background-color: orange;
+    margin: 0;
+    padding:10px;
+    color: white;
+}
+canvas{
+    border:1px solid whitesmoke;
+}
+.copyrightFooter{
+position: fixed;
+color: grey;
+bottom:0;
+width: 100%;
+background-color: whitesmoke;
+line-height: 3;
+text-align: center;
+}
